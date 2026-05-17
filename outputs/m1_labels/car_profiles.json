@@ -1,0 +1,24 @@
+{
+  "exp2_19drivers_1car_1route.csv": {
+    "p95_speed": 64.0,
+    "p99_speed": 73.0,
+    "p95_rpm": 2463.25,
+    "p99_rpm": 2871.5,
+    "p95_load": 99.47999999999992,
+    "p95_throttle_delta": 12.999999999999996,
+    "max_throttle_observed": 61.89999999999999,
+    "median_speed": 42.0,
+    "median_rpm": 1651.5
+  },
+  "exp3_4drivers_1car_1route.csv": {
+    "p95_speed": 99.20000000000005,
+    "p99_speed": 140.44000000000005,
+    "p95_rpm": 4188.75,
+    "p99_rpm": 5268.5,
+    "p95_load": 100.0,
+    "p95_throttle_delta": 47.01999999999998,
+    "max_throttle_observed": 66.2,
+    "median_speed": 42.0,
+    "median_rpm": 1611.0
+  }
+}

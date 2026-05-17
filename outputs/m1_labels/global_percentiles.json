@@ -1,0 +1,8 @@
+{
+  "hard_brake_threshold": -16.111111111111114,
+  "hard_brake_extreme": -29.44444444444444,
+  "rapid_accel_threshold": 15.972222222222221,
+  "rapid_accel_extreme": 27.222222222222214,
+  "jerk_threshold": 127.77777777777771,
+  "jerk_extreme": 216.66666666666657
+}
